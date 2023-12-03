@@ -1,0 +1,15 @@
+{
+  "name": "manuelstolze-prettier-config",
+  "version": "1.0.0",
+  "description": "Centralized prettier config for my projects",
+  "main": "config/index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier",
+    "frontend"
+  ],
+  "author": "Manuel Stolze",
+  "license": "ISC"
+}
